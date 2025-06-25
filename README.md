@@ -84,18 +84,18 @@ justifié et que vous pouvez le prouver.
 
 ## Langues
 
-- [ ] Niveau [CECRL](https://www.coe.int/fr/web/common-european-framework-reference-languages/)
+- [ ] Niveau [CECRL](https://www.coe.int/fr/web/common-european-framework-reference-languages/)  
 - [ ] mentionner un justificatif accompagné du score retenu (si possible)
-(TOEIC, TOEFL ou autre).
+    (TOEIC, TOEFL ou autre).  
 
 Il arrive que des candidat·e·s s'intéressent à une langue en autodidacte,
 sans désir de la maitriser. Dans ce cas, il est envisageable de scinder la 
-section en deux : 
-- [ ] langues maitrisées et pratique autodidacte (ou dilettante).
+section en deux :  
+- [ ] langues maitrisées et pratique autodidacte (ou dilettante).  
 
 Enfin, les candidat·e·s connaissent parfois plusieurs langues que les européens 
 confondent (dialectes, Kabyle, Berbère, Arabe fus7a ; 
-Mandarin et Cantonais, etc.). 
+Mandarin et Cantonais, etc.).  
 - [ ] Mentionner les langues peu représentées (dialectes et autres)
 
 ## Expériences professionnelles
@@ -132,6 +132,7 @@ Choisir des projets en lien avec l'offre visée et mentionner :
 
 - [ ] Si certifications obtenues, mentionner dans "Compétences"
 - [ ] Si certifications en préparation, mentionner dans "Projets"
+
 Il est possible de faire une section spécifique pour les certifications,
 c'est votre choix.  
 
