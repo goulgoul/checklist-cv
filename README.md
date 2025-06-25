@@ -62,14 +62,13 @@ bouger, mais elle vous donnera des idées :
 - [ ] Programmation fonctionnelle (Haskell, Lisp, Caml)  
 - [ ] Scripting (Bash, Python, Expect)  
 - [ ] Programmation embarquée (ESP-IDF, STM32)  
-- [ ] Électronique (PCB, reverse engineering hardware, protocoles comme I2C)
+- [ ] Électronique (PCB, reverse engineering hardware, I2C, UART, SPI)  
 - [ ] Pentest Web (failles que vous maitrisez, outils, technos, etc.)  
 - [ ] Pentest AD (idem)  
 - [ ] Surveillance réseaux (NMap, WireShark)
 - [ ] SIEM, SOC, EDR/XDR, IDS, IPS (nommer quelques technos maitrisées)  
 - [ ] OSInt (demandez conseil à un osinter et mettez votre pratique 
     linguistique en valeur dans la section dédiée)  
-    UART, SPI)  
 - [ ] Référentiels de l'ANSSI (PRIS, PASSI, etc.)  
 - [ ] EBIOS-RM, etc.  
 - [ ] Connaissance des réglementations (DORA, NIS2, LPM 2024, etc.)
