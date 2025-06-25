@@ -50,31 +50,26 @@ bouger, mais elle vous donnera des idées :
     GPOs, liaison avec les services Azure AD, etc.)  
 - [ ] Administration Linux/Unix (installation, configuration, utilisation,
     maintien pendant <durée> de <distribution Linux/Unix>, compilation de 
-    noyaux personnalisés, etc.) 
+    noyaux personnalisés, etc.)  
 - [ ] Administration réseaux (configuration d'appareils réseaux, DHCP, DNS,
-    Firewall, VLANs, redondance RAID, cloisonnement par conteneurisation, etc.)
+    Firewall, VLANs, redondance RAID, cloisonnement par conteneurisation, etc.)  
 - [ ] DevOps (virtualistation (conteneurisation ?) avec <technos>,
     CI/CD avec <technos>, automatisation de tests avec <technos>,
     infrastructure as code (k8s, docker-compose)  
-
 - [ ] Développement sécurisé (TDD, SAST, linters, C++14 et plus, Rust, ...)  
 - [ ] Programmation bas niveau (C, C++, Rust, Zig)  
 - [ ] Programmation orientée objet (Python, C#, Java, TS)  
 - [ ] Programmation fonctionnelle (Haskell, Lisp, Caml)  
 - [ ] Scripting (Bash, Python, Expect)  
 - [ ] Programmation embarquée (ESP-IDF, STM32)  
-- [ ] Électronique (PCB, reverse engineering hardware, protocoles comme I2C,
-
+- [ ] Électronique (PCB, reverse engineering hardware, protocoles comme I2C)
 - [ ] Pentest Web (failles que vous maitrisez, outils, technos, etc.)  
 - [ ] Pentest AD (idem)  
-
 - [ ] Surveillance réseaux (NMap, WireShark)
 - [ ] SIEM, SOC, EDR/XDR, IDS, IPS (nommer quelques technos maitrisées)  
-
 - [ ] OSInt (demandez conseil à un osinter et mettez votre pratique 
     linguistique en valeur dans la section dédiée)  
     UART, SPI)  
-
 - [ ] Référentiels de l'ANSSI (PRIS, PASSI, etc.)  
 - [ ] EBIOS-RM, etc.  
 - [ ] Connaissance des réglementations (DORA, NIS2, LPM 2024, etc.)
@@ -85,22 +80,25 @@ justifié et que vous pouvez le prouver.
 ## Langues
 
 - [ ] Niveau [CECRL](https://www.coe.int/fr/web/common-european-framework-reference-languages/)  
-- [ ] mentionner un justificatif accompagné du score retenu (si possible)
+- [ ] Mentionner un justificatif accompagné du score retenu (si possible)
     (TOEIC, TOEFL ou autre).  
 
 Il arrive que des candidat·e·s s'intéressent à une langue en autodidacte,
 sans désir de la maitriser. Dans ce cas, il est envisageable de scinder la 
 section en deux :  
-- [ ] langues maitrisées et pratique autodidacte (ou dilettante).  
+
+- [ ] Langues maitrisées et pratique autodidacte (ou dilettante).  
 
 Enfin, les candidat·e·s connaissent parfois plusieurs langues que les européens 
 confondent (dialectes, Kabyle, Berbère, Arabe fus7a ; 
 Mandarin et Cantonais, etc.).  
+
 - [ ] Mentionner les langues peu représentées (dialectes et autres)
 
 ## Expériences professionnelles
 
 Pour chaque expérience, voici un format à respecter :  
+
 - [ ] Titre de l'expérience (Ingénieur R&D IoT - stage de fin d'études) et dates  
 - [ ] Nom et localisation de l'entreprise (Sigrenea - Orléans (45))  
 - [ ] Point intéressant 1  
@@ -111,6 +109,7 @@ Pour chaque expérience, voici un format à respecter :
 ## Formations
 
 Pour chaque formation, voici un format à respecter :  
+
 - [ ] Titre de la formation (Expert de la sécurité des données, des réseaux et des systèmes) et dates  
 - [ ] Nom et localisation de l'organisme de formation (École 2600 - Montigny-le-Bretonneux (78))  
 - [ ] Point intéressant 1 (en fonction de l'offre visée  
@@ -121,6 +120,7 @@ Pour chaque formation, voici un format à respecter :
 ## Projets
 
 Choisir des projets en lien avec l'offre visée et mentionner :  
+
 - [ ] Un nom ou une description du projet (une ligne)  
 - [ ] Un lien GitHub ou autre (si possible)  
 - [ ] Point intéressant 1  
