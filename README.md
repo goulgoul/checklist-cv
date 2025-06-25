@@ -49,12 +49,12 @@ bouger, mais elle vous donnera des idées :
 - [ ] Administration Windows AD (installation et configuration de Windows AD,
     GPOs, liaison avec les services Azure AD, etc.)  
 - [ ] Administration Linux/Unix (installation, configuration, utilisation,
-    maintien pendant <durée> de <distribution Linux/Unix>, compilation de 
+    maintien pendant \<durée\> de \<distribution Linux/Unix\>, compilation de 
     noyaux personnalisés, etc.)  
 - [ ] Administration réseaux (configuration d'appareils réseaux, DHCP, DNS,
     Firewall, VLANs, redondance RAID, cloisonnement par conteneurisation, etc.)  
-- [ ] DevOps (virtualistation (conteneurisation ?) avec <technos>,
-    CI/CD avec <technos>, automatisation de tests avec <technos>,
+- [ ] DevOps (virtualistation (conteneurisation ?) avec \<technos\>,
+    CI/CD avec \<technos\>, automatisation de tests avec \<technos\>,
     infrastructure as code (k8s, docker-compose)  
 - [ ] Développement sécurisé (TDD, SAST, linters, C++14 et plus, Rust, ...)  
 - [ ] Programmation bas niveau (C, C++, Rust, Zig)  
