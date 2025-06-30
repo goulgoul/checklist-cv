@@ -12,7 +12,8 @@ Les éléments ci-après ne sont pas nécessairement classés par ordre d'import
 ### Phrase d'intro (avec mots importants en gras)
 
 - [ ] Poste (unique) recherché (correspondant à l'offre)  
-- [ ] Durée de l'alternance  
+- [ ] Durée de l'alternance
+- [ ] Date de disponibilité approximative  
 - [ ] Rythme (2 semaines en formation, 4 semaines en entreprise)  
 
 ### Plateformes et réseaux sociaux (si appliquable) :
