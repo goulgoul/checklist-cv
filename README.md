@@ -108,6 +108,9 @@ Pour chaque expérience, voici un format à respecter :
 
 ## Formations
 
+- [ ] Ajouter au moins votre dernière formation ou diplôme le plus élevé
+- [ ] Renseigner la formation de 2600
+
 Pour chaque formation, voici un format à respecter :  
 
 - [ ] Titre de la formation (Expert de la sécurité des données, des réseaux et des systèmes) et dates  
