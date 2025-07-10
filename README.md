@@ -47,27 +47,63 @@ tes techique !
 La liste de sections ci-après n'est pas exhaustive, les catégories peuvent
 bouger, mais elle vous donnera des idées :  
 
-- [ ] Administration Windows AD (installation et configuration de Windows AD,
-    GPOs, liaison avec les services Azure AD, etc.)  
-- [ ] Administration Linux/Unix (installation, configuration, utilisation,
-    maintien pendant \<durée\> de \<distribution Linux/Unix\>, compilation de 
-    noyaux personnalisés, etc.)  
-- [ ] Administration réseaux (configuration d'appareils réseaux, DHCP, DNS,
-    Firewall, VLANs, redondance RAID, cloisonnement par conteneurisation, etc.)  
-- [ ] DevOps (virtualistation (conteneurisation ?) avec \<technos\>,
-    CI/CD avec \<technos\>, automatisation de tests avec \<technos\>,
-    infrastructure as code (k8s, docker-compose)  
-- [ ] Développement sécurisé (TDD, SAST, linters, C++14 et plus, Rust, ...)  
-- [ ] Programmation bas niveau (C, C++, Rust, Zig)  
-- [ ] Programmation orientée objet (Python, C#, Java, TS)  
-- [ ] Programmation fonctionnelle (Haskell, Lisp, Caml)  
-- [ ] Scripting (Bash, Python, Expect)  
-- [ ] Programmation embarquée (ESP-IDF, STM32)  
-- [ ] Électronique (PCB, reverse engineering hardware, I2C, UART, SPI)  
-- [ ] Pentest Web (failles que vous maitrisez, outils, technos, etc.)  
-- [ ] Pentest AD (idem)  
-- [ ] Surveillance réseaux (NMap, WireShark)
-- [ ] SIEM, SOC, EDR/XDR, IDS, IPS (nommer quelques technos maitrisées)  
+- [ ] Administration Windows AD :  
+    - [ ] installation et configuration de Windows AD  
+    - [ ] GPOs  
+    - [ ] liaison avec les services Azure AD  
+- [ ] Administration Linux/Unix  
+    - [ ] installation, configuration, utilisation maintien pendant \<durée\> de \<distribution Linux/Unix\>  
+    - [ ] compilation de noyaux personnalisés  
+- [ ] Administration réseaux  
+    - [ ] configuration d'appareils réseaux, DHCP, DNS, Firewall, VLANs  
+    - [ ] redondance RAID  
+    - [ ] cloisonnement par conteneurisation  
+- [ ] DevOps  
+    - [ ] virtualistation (conteneurisation ?) avec \<technos\>  
+    - [ ] CI/CD avec \<technos\>  
+    - [ ] automatisation de tests avec \<technos\>  
+    - [ ] infrastructure as code (k8s, docker-compose)  
+- [ ] Développement sécurisé  
+    - [ ] TDD (\<technos\>)  
+    - [ ] SAST (\<technos\>)  
+    - [ ] linters (\<technos\>)  
+    - [ ] C++14 et plus   
+    - [ ] Rust   
+- [ ] Programmation bas niveau   
+    - [ ] C, C++   
+    - [ ] Rust  
+    - [ ] Zig    
+- [ ] Programmation orientée objet   
+    - [ ] Python  
+    - [ ] C++  
+    - [ ] Java  
+    - [ ] TypeScript  
+- [ ] Programmation fonctionnelle   
+    - [ ] Haskell   
+    - [ ] Lisp  
+    - [ ] Caml    
+- [ ] Scripting 
+    - [ ] Bash  
+    - [ ] Python  
+    - [ ] Expect   
+- [ ] Programmation embarquée 
+    - [ ] ESP-IDF  
+    - [ ] STM32  
+- [ ] Électronique et IoT  
+    - [ ] reverse engineering hardware  
+    - [ ] Exploitation UART pour se connecter sur un shell root  
+    - [ ] Extraction de firmware par différents modules de mémoire  
+    - [ ] Exploitations de failles ModBus  
+- [ ] Pentest Web 
+    - [ ] Injections basées sur les champs de texte (XSS, SQLi, XSLT)
+    - [ ] Manipulation de requêtes HTTP avec Burp Suite
+    - [ ] Vulnérabilités d'authentifications (Tokens CSRF, JWT)
+- [ ] Pentest AD  
+    - [ ] ...  
+- [ ] Surveillance réseaux  
+    - [ ] NMap  
+    - [ ] WireShark  
+- [ ] (Je maîtrise pas trop la blue team) SIEM, SOC, EDR/XDR, IDS, IPS (nommer quelques technos maitrisées)  
 - [ ] OSInt (demandez conseil à un osinter et mettez votre pratique 
     linguistique en valeur dans la section dédiée)  
 - [ ] Référentiels de l'ANSSI (PRIS, PASSI, etc.)  
