@@ -1,6 +1,14 @@
 # Checklist CVs
 
-Les éléments ci-après ne sont pas nécessairement classés par ordre d'importance, à vous faire votre choix.
+Pour utiliser cette liste au mieux, je vous recommande de cloner le dépôt et de
+remplir les cases comme indiqué ci-dessous dans un éditeur de texte.
+Il suffit de remplacer l'espace entre les crochets `- [ ]` par un `X`.
+
+```bash
+git clone https://github.com/goulgoul/checklist-cv.git
+```
+Les éléments ci-après ne sont pas nécessairement classés par ordre d'importance,
+à vous faire votre choix.
 
 ## En-tête
 
