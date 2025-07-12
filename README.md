@@ -15,7 +15,7 @@ Les éléments ci-après ne sont pas nécessairement classés par ordre d'import
 ### État civil
 
 - [X] Prénom  
-- [X] Nom (si nom == prénom, NOM)  
+- [X] Nom (si nom == prénom, NOM en lettre capitales)  
 
 ### Phrase d'intro (avec mots importants en gras)
 
