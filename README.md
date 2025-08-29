@@ -51,7 +51,13 @@ Les éléments ci-après ne sont pas nécessairement classés par ordre d'import
 Votre section compétences techniques doit impérativement être adaptée
 à l'offre correspondant au CV. Soyez attentifs à ce que vous indiquez, 
 vous devez pouvoir défendre et justifier chaque compétence en entretien ou en
-tes techique !
+tes techique !  
+Un point à ne pas négliger est de laisser l'appréciation de votre niveau à vos
+recruteurs, donc pas de "(notions)" ou de "intermédiaire" sur une compétence.
+De plus, il est recommandé de donner des précisions qui peuvent guider celles
+et ceux qui consulteront votre profil :
+"Programmation en C" --> "Programmation bas-niveau en C sur ESP32 (ESP-IDF)".  
+
 La liste de sections ci-après n'est pas exhaustive, les catégories peuvent
 bouger, mais elle vous donnera des idées :  
 
